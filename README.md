@@ -3,7 +3,7 @@
 This Python script reads a file, modifies its content (converts to uppercase),
 and writes the modified content to a new file named `modified_<original_filename>`.
 
-## Usage
+## Usage.
 
 Run the script:
 
